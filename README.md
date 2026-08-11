@@ -76,6 +76,9 @@ The model achieved an **average Dice score of approximately 0.90**, demonstratin
 ## Repository Structure
 .
 ├── Images/
+
 ├── Preprocessing/
+
 ├── src/  
+
 └── README.md
