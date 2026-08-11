@@ -71,7 +71,9 @@ The model achieved an **average Dice score of approximately 0.90**, demonstratin
   - Myocardial volume
 - Performance comparable to human observers
 
-Citation
+---
+
+## Citation
 
 If you use this repository or the PrimUNet model in your research, please cite:
 
