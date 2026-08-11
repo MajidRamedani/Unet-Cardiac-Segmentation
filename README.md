@@ -71,14 +71,20 @@ The model achieved an **average Dice score of approximately 0.90**, demonstratin
   - Myocardial volume
 - Performance comparable to human observers
 
----
+Citation
 
-## Repository Structure
-.
-├── Images/
+If you use this repository or the PrimUNet model in your research, please cite:
 
-├── Preprocessing/
-
-├── src/  
-
-└── README.md
+@article{RAMEDANI2025,
+  title   = {Deep learning-based automated segmentation of cardiac real-time MRI in non-human primates},
+  author  = {Ramedani, Majid and Moussavi, Amir and Memhave, Tor Rasmus and Boretius, Susann},
+  journal = {Computers in Biology and Medicine},
+  volume  = {189},
+  pages   = {109894},
+  year    = {2025},
+  issn    = {0010-4825},
+  doi     = {10.1016/j.compbiomed.2025.109894},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0010482525002458},
+  keywords = {Convolutional neural networks, Image segmentation, Real-time MRI,
+               Cine MRI, Cardiac MRI, Non-human primates}
+}
